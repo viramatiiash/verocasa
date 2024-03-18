@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/verocasa/static/css/main.6d160e8f.css",
+    "main.css": "/verocasa/static/css/main.5ce4a018.css",
     "main.js": "/verocasa/static/js/main.d6cfa730.js",
     "static/media/bg.png": "/verocasa/static/media/bg.d681fba3cfddaa49d924.png",
     "static/media/Inter-Black.ttf": "/verocasa/static/media/Inter-Black.83d81b169bedf85385f2.ttf",
@@ -18,11 +18,11 @@
     "index.html": "/verocasa/index.html",
     "static/media/arrow-left.svg": "/verocasa/static/media/arrow-left.e82da4566a683399ff2a.svg",
     "static/media/arrow-right.svg": "/verocasa/static/media/arrow-right.6532bdf4338f39022b97.svg",
-    "main.6d160e8f.css.map": "/verocasa/static/css/main.6d160e8f.css.map",
+    "main.5ce4a018.css.map": "/verocasa/static/css/main.5ce4a018.css.map",
     "main.d6cfa730.js.map": "/verocasa/static/js/main.d6cfa730.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d160e8f.css",
+    "static/css/main.5ce4a018.css",
     "static/js/main.d6cfa730.js"
   ]
 }
