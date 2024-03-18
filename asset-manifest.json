@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/verocasa/static/css/main.6d160e8f.css",
+    "main.js": "/verocasa/static/js/main.d6cfa730.js",
+    "static/media/bg.png": "/verocasa/static/media/bg.d681fba3cfddaa49d924.png",
+    "static/media/Inter-Black.ttf": "/verocasa/static/media/Inter-Black.83d81b169bedf85385f2.ttf",
+    "static/media/Inter-Thin.ttf": "/verocasa/static/media/Inter-Thin.97a5cc3ca8d3b35a4239.ttf",
+    "static/media/Inter-Regular.ttf": "/verocasa/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/sportsman-1.png": "/verocasa/static/media/sportsman-1.cd5e28467b9d2c2be5f6.png",
+    "static/media/sportsman-3.png": "/verocasa/static/media/sportsman-3.1559819d983cc0d63659.png",
+    "static/media/sportswoman.png": "/verocasa/static/media/sportswoman.9a72bea82705e1110429.png",
+    "static/media/Montserrat-Medium.ttf": "/verocasa/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/sportsman-2.png": "/verocasa/static/media/sportsman-2.88ff7700b2ce21be12a0.png",
+    "static/media/Roboto-Medium.ttf": "/verocasa/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Regular.ttf": "/verocasa/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/verocasa/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/symbol-defs.svg": "/verocasa/static/media/symbol-defs.3c998940aa880c64851e7edc05702ccb.svg",
+    "index.html": "/verocasa/index.html",
+    "static/media/arrow-left.svg": "/verocasa/static/media/arrow-left.e82da4566a683399ff2a.svg",
+    "static/media/arrow-right.svg": "/verocasa/static/media/arrow-right.6532bdf4338f39022b97.svg",
+    "main.6d160e8f.css.map": "/verocasa/static/css/main.6d160e8f.css.map",
+    "main.d6cfa730.js.map": "/verocasa/static/js/main.d6cfa730.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d160e8f.css",
+    "static/js/main.d6cfa730.js"
+  ]
+}
